@@ -1,0 +1,13 @@
+D:\dotNet\TcpClient\TcpClient\bin\Debug\netcoreapp3.1\TcpClientExample.exe
+D:\dotNet\TcpClient\TcpClient\bin\Debug\netcoreapp3.1\TcpClientExample.deps.json
+D:\dotNet\TcpClient\TcpClient\bin\Debug\netcoreapp3.1\TcpClientExample.runtimeconfig.json
+D:\dotNet\TcpClient\TcpClient\bin\Debug\netcoreapp3.1\TcpClientExample.runtimeconfig.dev.json
+D:\dotNet\TcpClient\TcpClient\bin\Debug\netcoreapp3.1\TcpClientExample.dll
+D:\dotNet\TcpClient\TcpClient\bin\Debug\netcoreapp3.1\TcpClientExample.pdb
+D:\dotNet\TcpClient\TcpClient\obj\Debug\netcoreapp3.1\TcpClientExample.AssemblyInfoInputs.cache
+D:\dotNet\TcpClient\TcpClient\obj\Debug\netcoreapp3.1\TcpClientExample.AssemblyInfo.cs
+D:\dotNet\TcpClient\TcpClient\obj\Debug\netcoreapp3.1\TcpClientExample.csproj.CoreCompileInputs.cache
+D:\dotNet\TcpClient\TcpClient\obj\Debug\netcoreapp3.1\TcpClientExample.dll
+D:\dotNet\TcpClient\TcpClient\obj\Debug\netcoreapp3.1\TcpClientExample.pdb
+D:\dotNet\TcpClient\TcpClient\obj\Debug\netcoreapp3.1\TcpClientExample.genruntimeconfig.cache
+D:\dotNet\TcpClient\TcpClient\obj\Debug\netcoreapp3.1\TcpClientExample.csproj.AssemblyReference.cache

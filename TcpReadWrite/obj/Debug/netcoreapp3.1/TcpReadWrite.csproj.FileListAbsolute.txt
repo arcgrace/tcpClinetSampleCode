@@ -1,0 +1,13 @@
+D:\dotNet\TcpClient\TcpReadWrite\bin\Debug\netcoreapp3.1\TcpReadWrite.exe
+D:\dotNet\TcpClient\TcpReadWrite\bin\Debug\netcoreapp3.1\TcpReadWrite.deps.json
+D:\dotNet\TcpClient\TcpReadWrite\bin\Debug\netcoreapp3.1\TcpReadWrite.runtimeconfig.json
+D:\dotNet\TcpClient\TcpReadWrite\bin\Debug\netcoreapp3.1\TcpReadWrite.runtimeconfig.dev.json
+D:\dotNet\TcpClient\TcpReadWrite\bin\Debug\netcoreapp3.1\TcpReadWrite.dll
+D:\dotNet\TcpClient\TcpReadWrite\bin\Debug\netcoreapp3.1\TcpReadWrite.pdb
+D:\dotNet\TcpClient\TcpReadWrite\obj\Debug\netcoreapp3.1\TcpReadWrite.csproj.AssemblyReference.cache
+D:\dotNet\TcpClient\TcpReadWrite\obj\Debug\netcoreapp3.1\TcpReadWrite.AssemblyInfoInputs.cache
+D:\dotNet\TcpClient\TcpReadWrite\obj\Debug\netcoreapp3.1\TcpReadWrite.AssemblyInfo.cs
+D:\dotNet\TcpClient\TcpReadWrite\obj\Debug\netcoreapp3.1\TcpReadWrite.csproj.CoreCompileInputs.cache
+D:\dotNet\TcpClient\TcpReadWrite\obj\Debug\netcoreapp3.1\TcpReadWrite.dll
+D:\dotNet\TcpClient\TcpReadWrite\obj\Debug\netcoreapp3.1\TcpReadWrite.pdb
+D:\dotNet\TcpClient\TcpReadWrite\obj\Debug\netcoreapp3.1\TcpReadWrite.genruntimeconfig.cache
